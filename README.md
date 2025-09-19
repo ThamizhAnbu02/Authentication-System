@@ -3,11 +3,11 @@ Firebase Authentication Web App
 This is a web application that implements user authentication using Firebase Authentication and Firestore. It includes user sign-up, sign-in, and a basic homepage displaying user information.
 
 Features
-User Sign-Up: Allows users to create an account with their first name, last name, email, and password.
-User Sign-In: Allows users to log in with their email and password.
-Firestore Integration: Stores user data (email, first name, last name) in Firestore upon sign-up.
-Responsive UI: Includes a clean and modern user interface with CSS animations and transitions.
-Homepage: Displays the logged-in user's information after successful sign-in.
+-User Sign-Up: Allows users to create an account with their first name, last name, email, and password.
+-User Sign-In: Allows users to log in with their email and password.
+-Firestore Integration: Stores user data (email, first name, last name) in Firestore upon sign-up.
+-Responsive UI: Includes a clean and modern user interface with CSS animations and transitions.
+-Homepage: Displays the logged-in user's information after successful sign-in.
 
 Prerequisites
 A modern web browser (Chrome, Firefox, Edge, etc.).
