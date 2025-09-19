@@ -5,13 +5,13 @@ import { getFirestore, setDoc, doc } from "https://www.gstatic.com/firebasejs/10
 
 // Firebase configuration (replace with your Firebase project's configuration)
 const firebaseConfig = {
-  apiKey: "AIzaSyAUlSdafhMdcmF9U9j1_EzhhAh9ZKqXbEE",
-  authDomain: "cloud-2-0.firebaseapp.com",
-  projectId: "cloud-2-0",
-  storageBucket: "cloud-2-0.firebasestorage.app",
-  messagingSenderId: "226446786671",
-  appId: "1:226446786671:web:04ff0376525bc738a10d9a",
-  measurementId: "G-WGYW4WFFGE"
+  apiKey: ,
+  authDomain: ,
+  projectId: ,
+  storageBucket: ,
+  messagingSenderId: ,
+  appId: ,
+  measurementId:
 };
 
 // Initialize Firebase
@@ -94,3 +94,4 @@ signIn.addEventListener('click', (event) => {
             }
         });
 });
+
